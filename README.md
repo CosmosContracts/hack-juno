@@ -2,7 +2,7 @@
 
 Juno is having a smart contract competition with [INSERT_PERCENT]% of the total Juno Supply as a prize.
 
-We hope this will lead to a cambrian explosion of useful money legos for the Cosmos ecosystem.
+We hope this will lead to a Cambrian explosion of useful money legos for the Cosmos ecosystem.
 
 #### Four phases
 
