@@ -4,13 +4,15 @@ Juno is having a smart contract competition with [INSERT_PERCENT]% of the total 
 
 We hope this will lead to a Cambrian explosion of useful money legos for the Cosmos ecosystem.
 
-#### Four phases
+### Four phases
 
 The competition is four phases:
 
 1. **Initial Development:**
    
-   Build your initial contracts and deploy them on the Juno Testnet. By [INSERT_DATE], individuals / teams will submit PRs with links to their Smart Contracts repo. Judges will judge them.
+   Build your initial contracts and deploy them on the Juno Testnet.
+
+   By [INSERT_DATE], individuals / teams will submit PRs with links to their Smart Contracts repo. Judges will judge them.
 
 2. **Submit funding proposals:**
    
@@ -18,7 +20,7 @@ The competition is four phases:
 
 3. **Launch V1 contract on the Juno Mainnet:**
    
-   Extra rewards will be given for making live and functional contracts on Juno Mainnet.
+   Extra rewards will be given for deploying live and fully functional contracts on Juno Mainnet.
 
 4. **Maintenance:**
    
