@@ -12,7 +12,7 @@ The competition is four phases:
 
    Build your initial contracts and deploy them on the Juno Testnet.
 
-   Individuals / teams will submit PRs with links to their Smart Contracts repo. Judges will judge them.
+   Individuals / teams will submit PRs with links to their Smart Contracts repo. Notable individuals from the Cosmos ecosystem will serve as judges to review the submissions.
 
 2. **Submit funding proposals:**
 
@@ -20,13 +20,11 @@ The competition is four phases:
 
 3. **Launch V1 contract on the Juno Mainnet:**
 
-   Extra rewards will be given for deploying live and fully functional contracts on Juno Mainnet.
+   Projects that manage to deploy live and fully functional contracts on Juno Mainnet will receive extra rewards.
 
 4. **Maintenance:**
 
    Extra rewards will be given for being responsive to the community, fixing bugs, doing audits, upgrading contracts, etc.
-
-   These rewards will be evaluated at 6 months and 1 year after the end of phase 3.
 
 **BONUS ROUND: community choice awards (will be voted on chain).**
 
@@ -34,7 +32,7 @@ The competition is four phases:
 
 1. **Write smart contracts**
 
-   The most points will be given to those individuals or teams that create useful Smart Contracts.
+   The most points will be given to individuals or teams that create useful Smart Contracts.
 
 2. **Make docs, videos, stack overflow responses, blog posts, etc.**
 
