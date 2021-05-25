@@ -39,3 +39,14 @@ The competition is four phases:
 2. **Make docs, videos, stack overflow responses, blog posts, etc.**
 
    For the Cosmos ecosystem take off, we need also need tutorials and documentation. Standout examples of Juno related content will receive rewards. The community will also be able to nominate standout members.
+
+### Some examples of smart contracts we would like to see
+
+- Lending / Borrowing
+- AMMs
+- Synthetics
+- Stablecoins
+- Marketplaces
+- Identity management
+- Auctions
+- Splits
