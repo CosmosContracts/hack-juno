@@ -1,6 +1,6 @@
 # Smart Contract Competition
 
-Juno is having a smart contract competition with ~2% of the total Juno Supply as a prize.
+Juno is having a smart contract competition with ~1% of the total Juno Supply as a prize.
 
 We hope this will lead to a Cambrian explosion of useful money legos for the Cosmos ecosystem.
 
@@ -45,6 +45,13 @@ The competition is four phases:
 - Synthetics
 - Stablecoins
 - Marketplaces
-- Identity management
+- Identity Management
 - Auctions
 - Splits
+- Token Creation
+- NFT
+- Gaming
+- DAO
+- Permission Systems
+- IBC Middleware Contracts
+- IBC Privacy Contracts
