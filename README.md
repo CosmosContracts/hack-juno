@@ -1,8 +1,29 @@
-# Smart Contract Competition
+# Hack Juno
 
-Juno is having a smart contract competition with ~1% of the total Juno Supply as a prize.
+~1% of the total Juno Supply in prizes. Let's #HackJuno!
 
-We hope this will lead to a Cambrian explosion of useful money legos for the Cosmos ecosystem.
+## How to earn points
+
+1. **Write smart contracts**
+
+   The most points will be given to individuals or teams that create useful Smart Contracts.
+
+2. **Make docs, videos, stack overflow responses, blog posts, etc.**
+
+   For the Cosmos ecosystem take off, we need also need tutorials and documentation. Standout examples of Juno related content will receive rewards. The community will also be able to nominate standout members.
+
+3. **Build other useful tools**
+
+   Amazing tools and user interfaces will bring immense value to the Juno ecosystem. Some ideas might include but are not limited too; UI for uploading / interacting with smart contracts or community tools such as balance checkers & bots.
+
+### Decision / scoring process
+
+- Community members will make on chain proposals nominating people for awards (you can't nominate yourself).
+- For nominations that pass, judges will determine the final reward amount based on usefulness of the contribution to the Juno ecosystem.
+
+## Smart Contract Competition Info
+
+We hope this will lead to a Cambrian explosion of useful money legos for the Cosmos ecosystem; thus, the majority of the rewards for Hack Juno will go towards smart contract development.
 
 ### Four phases
 
@@ -25,18 +46,6 @@ The competition is four phases:
 4. **Maintenance:**
 
    Extra rewards will be given for being responsive to the community, fixing bugs, doing audits, upgrading contracts, etc.
-
-**BONUS ROUND: community choice awards (will be voted on chain).**
-
-## How to earn points
-
-1. **Write smart contracts**
-
-   The most points will be given to individuals or teams that create useful Smart Contracts.
-
-2. **Make docs, videos, stack overflow responses, blog posts, etc.**
-
-   For the Cosmos ecosystem take off, we need also need tutorials and documentation. Standout examples of Juno related content will receive rewards. The community will also be able to nominate standout members.
 
 ### Some examples of smart contracts we would like to see
 
