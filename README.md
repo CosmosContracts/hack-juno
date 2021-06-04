@@ -10,11 +10,11 @@
 
 2. **Make docs, videos, stack overflow responses, blog posts, etc.**
 
-   For the Cosmos ecosystem take off, we need also need tutorials and documentation. Standout examples of Juno related content will receive rewards.
+   For the Cosmos ecosystem take off, we also need tutorials and documentation. Standout examples of Juno related content will receive rewards.
 
 3. **Build other useful tools**
 
-   Amazing tools and user interfaces also bring immense value to the Juno ecosystem and will be recognized. Some ideas might include but are not limited too; UI for uploading / interacting with smart contracts or community tools such as balance checkers & bots.
+   Amazing tools and user interfaces also bring immense value to the Juno ecosystem and will be recognized. Some ideas might include, but are not limited to, UI for uploading / interacting with smart contracts or community tools such as balance checkers & bots.
 
 ### Decision / scoring process
 
