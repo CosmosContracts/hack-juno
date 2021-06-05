@@ -10,44 +10,21 @@
 
 2. **Make docs, videos, stack overflow responses, blog posts, etc.**
 
-   For the Cosmos ecosystem take off, we need also need tutorials and documentation. Standout examples of Juno related content will receive rewards. The community will also be able to nominate standout members.
+   For the Cosmos ecosystem take off, we also need tutorials and documentation. Standout examples of Juno related content will receive rewards.
 
 3. **Build other useful tools**
 
-   Amazing tools and user interfaces will bring immense value to the Juno ecosystem. Some ideas might include but are not limited too; UI for uploading / interacting with smart contracts or community tools such as balance checkers & bots.
+   Amazing tools and user interfaces also bring immense value to the Juno ecosystem and will be recognized. Some ideas might include, but are not limited to, UI for uploading / interacting with smart contracts or community tools such as balance checkers & bots.
 
 ### Decision / scoring process
 
-- Community members will make on chain proposals nominating people for awards (you can't nominate yourself).
-- For nominations that pass, judges will determine the final reward amount based on usefulness of the contribution to the Juno ecosystem.
+- Community members will make on chain proposals nominating people for awards.
+- For nominations that pass, judges will determine the final score based on usefulness of the contribution to the Juno ecosystem.
+- Funds will be allocated according to points.
 
-## Smart Contract Competition Info
+### Some examples of things we would like to see
 
-We hope this will lead to a Cambrian explosion of useful money legos for the Cosmos ecosystem; thus, the majority of the rewards for Hack Juno will go towards smart contract development.
-
-### Four phases
-
-The competition is four phases:
-
-1. **Initial Development:**
-
-   Build your initial contracts and deploy them on the Juno Testnet.
-
-   Individuals / teams will submit PRs with links to their Smart Contracts repo. Notable individuals from the Cosmos ecosystem will serve as judges to review the submissions.
-
-2. **Submit funding proposals:**
-
-   Projects seeking to continue will submit funding proposals on chain. Funding proposals will be capped at a certain number of Juno and voted on by the community.
-
-3. **Launch V1 contract on the Juno Mainnet:**
-
-   Projects that manage to deploy live and fully functional contracts on Juno Mainnet will receive extra rewards.
-
-4. **Maintenance:**
-
-   Extra rewards will be given for being responsive to the community, fixing bugs, doing audits, upgrading contracts, etc.
-
-### Some examples of smart contracts we would like to see
+#### Smart Contracts
 
 - Lending / Borrowing
 - AMMs
@@ -64,3 +41,19 @@ The competition is four phases:
 - Permission Systems
 - IBC Middleware Contracts
 - IBC Privacy Contracts
+- Your great idea
+
+#### Documentation / Videos
+
+- How to write smart contracts
+- How to upload smart contracts
+- How to build UI for smart contracts
+- How to stake Juno
+- How to buy Juno
+- Translations of good content
+
+#### Other useful tools
+
+- UI for uploading smart contracts
+- UI for interacting with smart contracts
+- Your great idea
