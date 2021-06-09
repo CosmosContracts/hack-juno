@@ -22,7 +22,7 @@
 - Judges will determine the final score based on usefulness of the contribution to the Juno ecosystem.
 - Rewards will be allocated according to score.
 
-Judges will include the Juno Development Commity and some notable individuals from the Cosmos Ecosystem (to be announced). Judges are not eligible to receive Hack Juno rewards.
+Judges will include the Juno Development Committee and some notable individuals from the Cosmos Ecosystem (to be announced). Judges are not eligible to receive Hack Juno rewards.
 
 ### Some examples of things we would like to see
 
