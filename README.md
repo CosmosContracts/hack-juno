@@ -16,11 +16,13 @@
 
    Amazing tools and user interfaces also bring immense value to the Juno ecosystem and will be recognized. Some ideas might include, but are not limited to, UI for uploading / interacting with smart contracts or community tools such as balance checkers & bots.
 
-### Decision / scoring process
+### Submission / Scoring Process
 
-- Community members will make on chain proposals nominating people for awards.
-- For nominations that pass, judges will determine the final score based on usefulness of the contribution to the Juno ecosystem.
-- Funds will be allocated according to points.
+- [Fill out the Nominiation form](https://docs.google.com/forms/d/1doYtar6ldlnFKedbeZtRka4g9j3aO1Gb_MaWxllHw7E/edit) (for yourself or someone else).
+- Judges will determine the final score based on usefulness of the contribution to the Juno ecosystem.
+- Rewards will be allocated according to score.
+
+Judges will include the Juno Development Commity and some notable individuals from the Cosmos Ecosystem (to be announced). Judges are not eligible to receive Hack Juno rewards.
 
 ### Some examples of things we would like to see
 
