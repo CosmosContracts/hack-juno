@@ -4,6 +4,8 @@
 
 ~1% of the total Juno Supply in prizes. Let's #HackJuno!
 
+![banner](https://raw.githubusercontent.com/CosmosContracts/resources/master/images/hack-juno-earn-points.png)
+
 ## How to earn points
 
 1. **Write smart contracts**
@@ -18,6 +20,8 @@
 
    Amazing tools and user interfaces also bring immense value to the Juno ecosystem and will be recognized. Some ideas might include, but are not limited to, UI for uploading / interacting with smart contracts or community tools such as balance checkers & bots.
 
+![banner](https://raw.githubusercontent.com/CosmosContracts/resources/master/images/hack-juno-scoring-process.png)
+
 ### Submission / Scoring Process
 
 - [Fill out the Nominiation form](https://docs.google.com/forms/d/1doYtar6ldlnFKedbeZtRka4g9j3aO1Gb_MaWxllHw7E/edit) (for yourself or someone else).
@@ -27,6 +31,8 @@
 Judges will include the Juno Development Committee and some notable individuals from the Cosmos Ecosystem (to be announced). Judges are not eligible to receive Hack Juno rewards.
 
 ### Some examples of things we would like to see
+
+![banner](https://raw.githubusercontent.com/CosmosContracts/resources/master/images/hack-juno-smart-contracts.png)
 
 #### Smart Contracts
 
@@ -47,6 +53,8 @@ Judges will include the Juno Development Committee and some notable individuals 
 - IBC Privacy Contracts
 - Your great idea
 
+![banner](https://raw.githubusercontent.com/CosmosContracts/resources/master/images/hack-juno-documentation.png)
+
 #### Documentation / Videos
 
 - How to write smart contracts
@@ -55,6 +63,8 @@ Judges will include the Juno Development Committee and some notable individuals 
 - How to stake Juno
 - How to buy Juno
 - Translations of good content
+
+![banner](https://raw.githubusercontent.com/CosmosContracts/resources/master/images/hack-juno-tools.png)
 
 #### Other useful tools
 
