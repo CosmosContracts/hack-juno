@@ -2,7 +2,7 @@
 
 ~1% of the total Juno Supply in prizes. Let's #HackJuno!
 
-## How to earn points
+# How to earn points
 
 1. **Write smart contracts**
 
@@ -16,7 +16,7 @@
 
    Amazing tools and user interfaces also bring immense value to the Juno ecosystem and will be recognized. Some ideas might include, but are not limited to, UI for uploading / interacting with smart contracts or community tools such as balance checkers & bots.
 
-### Submission / Scoring Process
+## Submission / Scoring Process
 
 - [Fill out the Nominiation form](https://docs.google.com/forms/d/1doYtar6ldlnFKedbeZtRka4g9j3aO1Gb_MaWxllHw7E/edit) (for yourself or someone else).
 - Judges will determine the final score based on usefulness of the contribution to the Juno ecosystem.
@@ -24,9 +24,9 @@
 
 Judges will include the Juno Development Committee and some notable individuals from the Cosmos Ecosystem (to be announced). Judges are not eligible to receive Hack Juno rewards.
 
-### Some examples of things we would like to see
+## Things we would like to see
 
-#### Smart Contracts
+### Smart Contracts
 
 - Lending / Borrowing
 - AMMs
@@ -36,6 +36,7 @@ Judges will include the Juno Development Committee and some notable individuals 
 - Identity Management
 - Auctions
 - Splits
+- Options
 - Token Creation
 - NFT
 - Gaming
@@ -45,7 +46,7 @@ Judges will include the Juno Development Committee and some notable individuals 
 - IBC Privacy Contracts
 - Your great idea
 
-#### Documentation / Videos
+### Documentation / Videos
 
 - How to write smart contracts
 - How to upload smart contracts
@@ -54,8 +55,9 @@ Judges will include the Juno Development Committee and some notable individuals 
 - How to buy Juno
 - Translations of good content
 
-#### Other useful tools
+### Other useful tools
 
-- UI for uploading smart contracts
+- Block explorer for smart contracts
 - UI for interacting with smart contracts
+- UI for uploading smart contracts
 - Your great idea
