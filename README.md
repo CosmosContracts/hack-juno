@@ -44,6 +44,10 @@ Judges will include the Juno Development Committee and some notable individuals 
 - Permission Systems
 - IBC Middleware Contracts
 - IBC Privacy Contracts
+- Polling & Voting
+- Airdrop Blaster (airdrop custom tokens via IBC)
+- Message Sender (send messages to people by using their public address, they could even unlock private ones with their private key)
+- LockBox (Lock funds for a specified amount of time, bring hodling to the next level!)
 - Your great idea
 
 ### Documentation / Videos
