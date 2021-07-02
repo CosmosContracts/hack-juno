@@ -10,7 +10,8 @@ Join the [#hack-juno Discord channel](https://discord.gg/c7TW2WZQxP) to discuss 
 
    The most points will be given to individuals or teams that create useful Smart Contracts.
 
-[POINT TO EXAMPLES / DOCS]
+   * CosmWasm docs: https://docs.cosmwasm.com/
+   * Example contracts: https://github.com/CosmWasm/cosmwasm-plus
 
 2. **Make docs, videos, stack overflow responses, blog posts, etc.**
 
