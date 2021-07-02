@@ -2,11 +2,15 @@
 
 ~1% of the total Juno Supply in prizes. Let's #HackJuno!
 
+Join the [#hack-juno Discord channel](https://discord.gg/c7TW2WZQxP) to discuss ideas, get questions answered, and find potential teammates.
+
 # How to earn points
 
 1. **Write smart contracts**
 
    The most points will be given to individuals or teams that create useful Smart Contracts.
+
+[POINT TO EXAMPLES / DOCS]
 
 2. **Make docs, videos, stack overflow responses, blog posts, etc.**
 
@@ -18,7 +22,8 @@
 
 ## Submission / Scoring Process
 
-- [Fill out the Nominiation form](https://docs.google.com/forms/d/1doYtar6ldlnFKedbeZtRka4g9j3aO1Gb_MaWxllHw7E/edit) (for yourself or someone else).
+- Work on your projects / ideas
+- [Fill out the Nomination form](https://docs.google.com/forms/d/1doYtar6ldlnFKedbeZtRka4g9j3aO1Gb_MaWxllHw7E/edit) (for yourself or someone else).
 - Judges will determine the final score based on usefulness of the contribution to the Juno ecosystem.
 - Rewards will be allocated according to score.
 
