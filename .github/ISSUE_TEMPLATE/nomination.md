@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-### Who are you nominating?
+**Who are you nominating?**
 
-### What are you nominating them for? 
+**What are you nominating them for?**
 
-### Please provide links to their work.
+**Please provide links to their work.**
