@@ -33,7 +33,7 @@ Judges will include the Juno Development Committee and some notable individuals 
 #### Notes
 - If someone builds something useful or helpful to you, nominiate them!
 - If you're nominated, keep building! It will help earn you the best score from the judges.
-- Feel free to comment on nominations, but be sure to keep things possitive.
+- Feel free to comment on nominations, but be sure to keep things positive.
 
 ## Things we would like to see
 
