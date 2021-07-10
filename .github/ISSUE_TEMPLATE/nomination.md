@@ -2,7 +2,7 @@
 name: Nomination
 about: This template is to nominate someone for Hack Juno
 title: "[Nomination]"
-labels: ''
+labels: Nomination
 assignees: ''
 
 ---
