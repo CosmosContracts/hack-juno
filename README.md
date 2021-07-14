@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/CosmosContracts/resources/master/images/hack-juno-banner.png)
+![JunoHack](https://user-images.githubusercontent.com/79812965/125635373-aeb68220-ca28-4aeb-9b90-1ea73015bb41.png)
 
 ~1% of the total Juno Supply in prizes. Let's #HackJuno!
 
