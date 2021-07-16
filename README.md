@@ -1,4 +1,5 @@
-![JunoHack](https://user-images.githubusercontent.com/79812965/125635373-aeb68220-ca28-4aeb-9b90-1ea73015bb41.png)
+![HackJuno](https://user-images.githubusercontent.com/79812965/125934634-0e926384-223b-4542-a8ca-412579e1a9a3.png)
+
 
 ~1% of the total Juno Supply in prizes. Let's #HackJuno!
 
