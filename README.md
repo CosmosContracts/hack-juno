@@ -38,6 +38,7 @@ Judges will include the Juno Development Committee and some notable individuals 
 - If you're nominated, keep building! It will help earn you the best score from the judges.
 - It will take sometime to evaluate and pay out nominations, please be patient.
 - Feel free to comment on nominations, but be sure to keep things positive.
+- Try to keep adding to existing nominations rather than opening up new nominations for the same person.
 - DO NOT SPAM NOMINATIONS FOR YOURSELF. Doesn't earn you any points.
 
 ## Things we would like to see
