@@ -1,7 +1,5 @@
 ![Juno (Banner 99)](https://user-images.githubusercontent.com/79812965/126158359-90a717b0-cd7c-4304-b477-9d90cc3f6cc7.png)
 
-
-
 ~1% of the total Juno Supply in prizes. Let's #HackJuno!
 
 Join the [#hack-juno Discord channel](https://discord.gg/c7TW2WZQxP) to discuss ideas, get questions answered, and find potential teammates.
@@ -26,14 +24,14 @@ Join the [#hack-juno Discord channel](https://discord.gg/c7TW2WZQxP) to discuss 
 ## Submission / Scoring Process
 
 - Work on your projects / ideas
-- [Fill out the Nomination form](https://github.com/CosmosContracts/hack-juno/issues/new?assignees=&labels=Nomination&template=nomination.md&title=%5BNomination%5D).
-- Judges will determine the final score based on usefulness of the contribution to the Juno ecosystem.
-- Rewards will be allocated according to score.
+- Get nominatated
+- Judges will determine the final score based on usefulness of the contribution to the Juno ecosystem
+- Rewards will be allocated according to score
 
 Judges will include the Juno Development Committee and some notable individuals from the Cosmos Ecosystem (to be announced). Judges are not eligible to receive Hack Juno rewards.
 
 #### Notes
-- If someone builds something useful or helpful to you, nominiate them!
+- If someone builds something useful or helpful to you, suggest they be nominated in the #hack-juno Discord channel!
 - If you're nominated, keep building! It will help earn you the best score from the judges.
 - Feel free to comment on nominations, but be sure to keep things positive.
 
