@@ -26,7 +26,7 @@ Join the [#hack-juno Discord channel](https://discord.gg/c7TW2WZQxP) to discuss 
 ## Submission / Scoring Process
 
 - Work on your projects / ideas
-- [Get nominated, or fill out the Nomination form](https://github.com/CosmosContracts/hack-juno/issues/new?assignees=&labels=Nomination&template=nomination.md&title=%5BNomination%5D).
+- Get nominatated.
 - Judges will determine the final score based on usefulness of the contribution to the Juno ecosystem.
 - Rewards will be allocated according to score.
 
@@ -34,7 +34,7 @@ Judges will include the Juno Development Committee and some notable individuals 
 
 #### Notes
 
-- If someone builds something useful or helpful to you, nominiate them!
+- If someone builds something useful or helpful to you, suggest they be nominated in the #hack-juno Discord channel!
 - If you're nominated, keep building! It will help earn you the best score from the judges.
 - It will take sometime to evaluate and pay out nominations, please be patient.
 - Feel free to comment on nominations, but be sure to keep things positive.
