@@ -1,45 +1,49 @@
 ![Juno (Banner 99)](https://user-images.githubusercontent.com/79812965/126158359-90a717b0-cd7c-4304-b477-9d90cc3f6cc7.png)
 
-
-
-~1% of the total Juno Supply in prizes. Let's #HackJuno!
+Let's #HackJuno!
 
 Join the [#hack-juno Discord channel](https://discord.gg/c7TW2WZQxP) to discuss ideas, get questions answered, and find potential teammates.
 
 # How to earn points
 
-1. **Write smart contracts**
+1. **Make Smart Contracts and Dapps**
 
-   The most points will be given to individuals or teams that create useful Smart Contracts.
+   The most points will be given to individuals or teams that create useful Smart Contracts and Decentralized Applications (dapps).
 
-   * CosmWasm docs: https://docs.cosmwasm.com/
-   * Example contracts: https://github.com/CosmWasm/cosmwasm-plus
+   - CosmWasm docs: https://docs.com.cosmwasm/
+   - CosmJS documentation: https://cosmos.github.io/cosmjs/latest/cosmwasm-stargate/index.html
+   - Example contracts: https://github.com/CosmWasm/cw-plus
+   - Frontend starter template: https://github.com/ebaker/next-cosmwasm-keplr-starter
 
-2. **Make docs, videos, stack overflow responses, blog posts, etc.**
+2. **Make technical documentation**
 
    For the Cosmos ecosystem take off, we also need tutorials and documentation. Standout examples of Juno related content will receive rewards.
 
 3. **Build other useful tools**
 
-   Amazing tools and user interfaces also bring immense value to the Juno ecosystem and will be recognized. Some ideas might include, but are not limited to, UI for uploading / interacting with smart contracts or community tools such as balance checkers & bots.
+   Amazing tools and user interfaces also bring immense value to the Juno ecosystem and will be recognized. Some ideas might include, but are not limited to, Indexers for on-chain data, UI for uploading / interacting with smart contracts or community tools such as balance checkers & bots.
 
 ## Submission / Scoring Process
 
 - Work on your projects / ideas
-- [Fill out the Nomination form](https://github.com/CosmosContracts/hack-juno/issues/new?assignees=&labels=Nomination&template=nomination.md&title=%5BNomination%5D).
+- [Get nominated, or fill out the Nomination form](https://github.com/CosmosContracts/hack-juno/issues/new?assignees=&labels=Nomination&template=nomination.md&title=%5BNomination%5D).
 - Judges will determine the final score based on usefulness of the contribution to the Juno ecosystem.
 - Rewards will be allocated according to score.
 
-Judges will include the Juno Development Committee and some notable individuals from the Cosmos Ecosystem (to be announced). Judges are not eligible to receive Hack Juno rewards.
+Judges will include the Juno Development Committee and some notable individuals from the Cosmos Ecosystem. Judges are not eligible to receive Hack Juno rewards.
 
 #### Notes
+
 - If someone builds something useful or helpful to you, nominiate them!
 - If you're nominated, keep building! It will help earn you the best score from the judges.
+- It will take sometime to evaluate and pay out nominations, please be patient.
 - Feel free to comment on nominations, but be sure to keep things positive.
+- Try to keep adding to existing nominations rather than opening up new nominations for the same person.
+- DO NOT SPAM NOMINATIONS FOR YOURSELF. Doesn't earn you any points.
 
 ## Things we would like to see
 
-### Smart Contracts
+### Smart Contracts / Dapps
 
 - Lending / Borrowing
 - AMMs
@@ -66,14 +70,11 @@ Judges will include the Juno Development Committee and some notable individuals 
 ### Documentation / Videos
 
 - How to write smart contracts
-- How to upload smart contracts
 - How to build UI for smart contracts
-- How to stake Juno
-- How to buy Juno
-- Translations of good content
 
 ### Other useful tools
 
+- Indexers for on-chain smart contract data
 - Block explorer for smart contracts
 - UI for interacting with smart contracts
 - UI for uploading smart contracts
